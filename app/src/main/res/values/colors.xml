@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_toolbar">#0E4563</color>
+    <color name="main_dark_status_bar">#0E4563</color>
+
+</resources>
